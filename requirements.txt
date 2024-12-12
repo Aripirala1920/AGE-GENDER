@@ -1,0 +1,9 @@
+REQUIREMENTS FOR THE ASSIGNEMENT:
+
+1.Python Installed on your System (I've python 3.10.5 version)
+
+2.Good System Requirement-Windows 10/11 64 Bits 4GB RAM+
+
+3.IDE(Integrated Development Environment) or cloud platform(I preferred VS CODE) 
+
+4.Python Libraries installed on your system (Numpy, matplotlib, seaborn , sklearn, TensorFlow,cv2,pandas,tkinter,sk.learn.model).
